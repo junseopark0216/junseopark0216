@@ -33,6 +33,12 @@ I am a cybersecurity student deeply focused on **System Hacking (Pwnable), Binar
 
 ---
 
+## 📝 CTF Writeups
+
+* **[CTF Writeups](https://github.com/junseopark0216/CTF-Writeups)**: A collection of writeups from CTF competitions I've participated in.
+
+---
+
 ## 📬 Contact
 
 * Email: `r00th00f02@gmail.com`
